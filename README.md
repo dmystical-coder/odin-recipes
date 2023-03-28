@@ -8,8 +8,6 @@ The website won’t look very pretty by the time I’ve finished. I will revisit
 
 ## Some important skills I'd have demonstrated on completing this website
 
----
-
 - HTML boilerplate `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
 - Lists `<ul>`, `<ol>`, `<li>`
 - Links and Images `<a>`, `<img>`
